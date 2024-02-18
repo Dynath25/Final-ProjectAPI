@@ -24,6 +24,4 @@
 -   id `BIGINT` : Unique identifier ( Primary Key )
 -   category `varchar` : Category Name
 
-## 🔖 GET Method Example
-
-### Getting all data
+## Example
